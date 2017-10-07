@@ -1,7 +1,7 @@
 # ManoInterpolacion
-#Integrantes 
+Integrantes 
 
-#Nicolas Mendez
-#Juan David Gama
-#Miguel Baron
-#Santiago Salamanca
+Nicolas Mendez
+Juan David Gama
+Miguel Baron
+Santiago Salamanca
